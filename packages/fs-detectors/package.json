@@ -21,7 +21,7 @@
   "dependencies": {
     "@vercel/frameworks": "1.1.8",
     "@vercel/routing-utils": "2.0.2",
-    "glob": "8.0.3",
+    "glob": "9.0.0",
     "js-yaml": "4.1.0",
     "json5": "2.2.1",
     "minimatch": "3.0.4",
