@@ -16,7 +16,7 @@
     ]
   },
   "dependencies": {
-    "lerna": "3.16.4"
+    "lerna": "6.5.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.21.0",
